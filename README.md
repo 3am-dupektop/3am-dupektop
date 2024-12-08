@@ -5,7 +5,7 @@
 </h1>
 
 
-<h3 align="center">Data Scientist</h3>
+<h2 align="center">Data Scientist</h2>
 
 ## My code skills:
 <div id="badges" align="center">
