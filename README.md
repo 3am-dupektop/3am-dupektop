@@ -22,5 +22,8 @@
   <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MYSQL"/>
   <img src="https://img.shields.io/badge/-Excel-brightgreen?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/pytorch-%23EE4C2C.svg?style=for-the-badge&logo=pytorch&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MinIO-%23FF6950.svg?style=for-the-badge&logo=minio&logoColor=white"/>
+  <img src="https://img.shields.io/badge/dvc-%230563EB.svg?style=for-the-badge&logo=dvc&logoColor=white"/>
 </div>
 
